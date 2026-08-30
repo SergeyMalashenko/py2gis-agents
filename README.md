@@ -44,8 +44,8 @@
 Требуется Python 3.10 или новее и ключ 2GIS Search API.
 
 ```bash
-git clone git@github.com:SergeyMalashenko/py2gis_agents.git
-cd py2gis_agents
+git clone git@github.com:SergeyMalashenko/py2gis-agents.git
+cd py2gis-agents
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
