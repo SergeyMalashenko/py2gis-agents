@@ -9,3 +9,6 @@ dist/
 .venv/
 .env
 /*-infrastructure*.json
+
+# Локфайл окружения разработчика
+uv.lock
